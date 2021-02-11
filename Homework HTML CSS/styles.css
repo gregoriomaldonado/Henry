@@ -1,0 +1,54 @@
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/800281.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.divClass {
+    text-align: center;
+    color: white;
+}
+
+.divClass a{
+    color: white;
+}
+  
+#thirdDiv img {
+ 
+    width: 300px ; 
+    
+  
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+li {
+    margin-left: -10%;
+  }
+
+
+
+
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    margin: auto;
+    background-color: orange;
+    padding: 50px; 
+    border-color: black;
+    border-width: 5px;
+   
+}
+
+#spanId {
+    font-size: 18px;
+   margin: 50px;
+   color: white;
+ 
+    
+}
